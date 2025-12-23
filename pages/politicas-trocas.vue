@@ -1,164 +1,109 @@
 <template>
   <span>
     <div class="corpo">
-      <h1>Políticas de trocas</h1>
+      <h1>Trocas e Devoluções</h1>
       <div class="texto">
-        <br />
+        <p class="intro">
+          Entenda como funcionam as trocas, devoluções e reembolsos de forma simples 
+          e dentro do Código de Defesa do Consumidor.
+        </p>
+        
+        <h3>Política Geral</h3>
         <p>
-          <strong>QUERO DEVOLVER UM PEDIDO FEITO NO SITE COMO FAÇO?</strong>
-          <br />
-          Se você comprou e recebeu um produto que não era o esperado, você tem
-          até 7 dias corridos do recebimento do produto, para solicitar a
-          devolução do valor. Para que o processo aconteça, é necessário que o
-          pedido esteja nas mesmas condições do recebimento como embalagem
-          intacta, sem indícios de uso, acompanhado de todos os itens que
-          recebeu e também da nota fiscal. Então, diante desse cenário e
-          condições, você deve abrir um ticket com o canal de Atendimento ao
-          Cliente pelo telefone (11) 99293-0623 ou chat , que fará o envio do
-          código postal dos Correios para que realize a devolução do item. Assim
-          que identificarmos a postagem, disponibilizaremos para você o crédito
-          em sua conta Closet Imports ou devolução do valor. Todos os pedidos
-          realizados online, só poderão ser trocados através do nosso canal de
-          atendimento ao cliente. Nós não realizamos trocas de pedidos online em
-          nossas lojas físicas.
-          <br />
-          <br />
-          <strong>SOLICITAÇÃO DE TROCA OU DEVOLUÇÃO</strong> <br />
-          O cliente tem o prazo de até 07 dias, contados a partir do recebimento
-          do produto, para efetuar a solicitação junto ao SAC Closet Imports,
-          por meio de mensagem direta para o e-mail closetimports379@gmail.com.
-          Não esqueça de informar nome completo e número do pedido. Caso o
-          cliente ainda não tenha recebido o produto, deverá realizar a
-          solicitação pelo mesmo canal de atendimento, e, posteriormente,
-          recusar o recebimento do produto caso chegue a ser feita a entrega.
-          <br />
-          A Closet Imports analisará a razão de sua solicitação e prestará as
-          informações e esclarecimentos sobre como executar a devolução para o
-          nosso Centro de Distribuição. No momento da solicitação é necessário
-          informar o número do pedido e o motivo da troca ou devolução.
-          Eventualmente mais informações e fotos poderão ser solicitadas. <br />
-          Em qualquer hipótese é necessário observar as condições do produto
-          para troca ou devolução, as quais estão descritas nos itens abaixo. A
-          Closet Imports somente realizará a troca por produtos disponíveis em
-          seu estoque, de modo que não garante ao usuário a disponibilidade das
-          mesmas cores, fragrâncias ou outras características das selecionadas
-          no momento da compra original. <br />
-          A Closet Imports se reserva ao direito de realizar a troca dos
-          produtos apenas uma vez. A Closet Imports disponibilizará o crédito
-          referente ao valor pago para que o usuário o utilize em outra
-          aquisição. Na hipótese de o produto adquirido apresentar valor
-          superior ao crédito previamente recebido, o cliente deverá
-          complementar o pagamento. <br />
-          Caso prefira, a Closet Imports efetuará a devolução dos valores pagos.
-          <br />
-          <br />
-          <strong>DIREITO DE ARREPENDIMENTO</strong> <br />
-          Os clientes poderão realizar a devolução de qualquer produto
-          adquirido, no prazo de 07 (sete) dias, contados a partir do
-          recebimento do produto, desde que observadas as condições estipuladas
-          na presente política. <br />
-          Os custos de frete e devolução do produto ficam por conta da Closet
-          Imports, com exceção aos cancelamentos ou devoluções parciais de
-          produtos. As trocas e/ou devoluções de produtos adquiridos pela
-          internet não poderão ser efetuados em qualquer loja física, sendo tal
-          procedimento restrito ao site. Em qualquer hipótese é necessário
-          observar as condições do produto para troca ou devolução, as quais
-          estão abaixo descritas. <br />
-          <br />
-          <strong>ERRO NA ENTREGA, PRODUTO OU EMBALAGEM AVARIADA</strong> <br />
-          Caso a embalagem do produto apresente qualquer avaria ou sinal de
-          violação, recomendamos que recuse o recebimento e entre em contato
-          imediatamente com o SAC Closet Imports, por meio de mensagem para
-          closetimports379@gmail.com. Se a embalagem já tiver sido recebida e
-          apresente alguma das situações acima, ou ainda caso apresente qualquer
-          divergência, tal como falta de produto ou em desacordo com o
-          adquirido, também solicitamos que, no prazo de até 24 horas, contados
-          a partir da entrega do produto, comunique o SAC Closet Imports, por
-          meio de mensagem direta para closetimports379@gmail.com. <br />
-          Nessas situações orientamos aos clientes que tirem fotos e enviem
-          juntamente com o relatório do ocorrido, bem como com os dados do
-          recebedor e a respectiva data. A partir do efetivo recebimento dos
-          produtos pela Closet Imports, será realizada uma análise interna,
-          podendo ser solicitadas novas informações ao cliente para melhor
-          compreensão dos fatos. <br />
-          A Closet Imports tem o prazo mínimo de 20 dias úteis para apresentar
-          uma resposta ao cliente. <br />
-          <br />
-          <strong>TROCA POR DEFEITO OU FALHA DO PRODUTO</strong> <br />
-          Os clientes da Closet Imports poderão realizar a troca dos produtos
-          que apresentem qualquer defeito ou falha, no prazo de até 30 dias
-          corridos, contados após seu recebimento, desde que estejam
-          acompanhados da nota fiscal eletrônica (DANFE) ou uma cópia dela, e
-          que as referidas falhas ou vícios não sejam decorrentes de mau uso dos
-          clientes, ou inobservância das recomendações dos fabricantes sobre a
-          conservação dos produtos. Os custos de devolução do produto ficam por
-          conta da Closet Imports. <br />
-          O cliente deverá solicitar à Closet Imports a autorização de postagem,
-          pelo mesmo canal onde a compra foi realizada, e postar o produto
-          juntamente com uma autorização de postagem, por meio de qualquer
-          agência dos Correios. As trocas de produtos adquiridos pela internet
-          não poderão ser efetuadas em qualquer loja física, sendo tal
-          procedimento restrito ao site. <br />
-          <br />
-          <strong>OPÇÕES DE DEVOLUÇÃO DO VALOR PAGO</strong> <br />
-          A restituição do valor pago será realizada por meio de estorno
-          diretamente no cartão de crédito, depósito em conta corrente, ou
-          concessão de vale troca, sendo realizada preferencialmente de acordo
-          com a mesma modalidade de pagamento utilizada no fechamento do pedido.
-          <br />
-          Visando garantir maior transparência e respeito aos direitos do
-          cliente, na hipótese de extravio dos produtos, a Closet Imports poderá
-          imediatamente cancelar a venda e conceder um vale troca ao cliente,
-          para que possa realizar nova compra o mais rápido possível. <br />
-          Caso o cliente não tenha interesse no vale troca, será realizado o
-          depósito em sua conta corrente ou o estorno no cartão de crédito se
-          assim for solicitado. <br />
-          <br />
-          <strong>CONDIÇÕES DO PRODUTO PARA TROCA OU DEVOLUÇÃO</strong> <br />
-          O produto deverá ser devolvido sem uso e em sua embalagem original,
-          lacrado, sem indícios de uso e em perfeitas condições (com exceção às
-          trocas por vício ou falha do produto), acompanhado da nota fiscal.
-          Todos os produtos devolvidos passam por uma análise do SAC Closet
-          Imports no momento que chegam ao nosso Centro de Distribuição, a qual
-          poderá levar até 20 úteis. <br />
-          O produto desejado para troca e/ou a restituição do valor pago só será
-          liberado após aprovação do nosso Controle de qualidade. Caso seja
-          identificada qualquer divergência ou violação do produto, não
-          aceitaremos a devolução e devolveremos o produto ao remetente sem
-          comunicação prévia. <br />
-          Os brindes e as amostras recebidos em decorrência do produto
-          adquirido, e que será objeto de troca ou devolução, deverão ser
-          enviados juntamente com estes, independentemente do motivo. <br />
-          <br />
-          <strong>FORMA DE DEVOLUÇÃO DOS PRODUTOS PARA A Closet Imports</strong>
-          <br />
-          Se aprovada pelo controle de qualidade Closet Imports ou devida por
-          motivos legais, a devolução do seu produto para o Centro de
-          Distribuição deve ser realizada por postagem sem nenhum custo. Para a
-          opção de postagem você receberá as instruções em seu e-mail com
-          informações sobre o correto acondicionamento do produto, o número de
-          postagem e as informações que deverão constar juntamente com o produto
-          devolvido. <br />
-          Isso lhe dará o direito de postar o produto em agências credenciadas
-          dos Correios. O procedimento é simples e agiliza o processo de troca.
-          <br />
-          <br />
-          <strong>PRAZO PARA RESTITUIÇÃO</strong> <br />
-          Pagamento com Cartão de Crédito: o estorno no cartão de crédito será
-          visualizado em até duas faturas após a conclusão da devolução,
-          dependendo da data de vencimento do cartão. Dependendo do procedimento
-          do banco emissor do cartão de crédito, o estorno será realizado em uma
-          única fatura, no montante total da compra, independentemente do valor
-          ter sido pago de forma parcelada, de modo que o cliente poderá
-          continuar sendo debitado mensalmente, conforme parcelamento realizado.
-          <br />
-          Pagamento com Boleto Bancário: o reembolso será feito na conta
-          corrente do titular do pedido em até 30 dias úteis após a conclusão da
-          devolução. Caso o cliente não possua conta corrente, e expressamente
-          solicite a realização do depósito em conta de terceiros, será
-          orientado a preencher um documento com os dados bancários e assinar a
-          carta autorizando referido depósito, juntamente com a cópia de
-          documento pessoal que contenha sua assinatura.
+          Na Jardim das Essências, queremos que você tenha a melhor experiência 
+          possível com suas compras online. Por isso, seguimos rigorosamente o que 
+          está previsto no Código de Defesa do Consumidor (CDC).
+        </p>
+        
+        <h3>Direito de Arrependimento – 7 Dias Corridos</h3>
+        <p>
+          De acordo com o Artigo 49 do CDC, você tem até 7 dias corridos a partir 
+          do recebimento do produto para desistir da compra realizada em nossa 
+          loja online.
+        </p>
+        <ul>
+          <li>O produto deve estar sem sinais de uso, com etiquetas afixadas e, de preferência, na embalagem original;</li>
+          <li>A solicitação deve ser feita pelo e-mail: <strong>jdessenciasrc@gmail.com</strong>;</li>
+          <li>Você receberá o reembolso total do valor pago, incluindo o frete;</li>
+          <li>O frete de devolução é de responsabilidade da loja, conforme determina a legislação.</li>
+        </ul>
+        
+        <h3>Troca por Tamanho, Cor ou Insatisfação</h3>
+        <p>
+          Fora do prazo de arrependimento, aceitamos trocas por tamanho, cor ou 
+          insatisfação em até 7 dias após o recebimento.
+        </p>
+        <ul>
+          <li>A peça não pode apresentar sinais de uso, odores ou alterações;</li>
+          <li>A etiqueta deve estar afixada à peça;</li>
+          <li>O produto deve ser enviado com a Nota Fiscal e, se possível, na embalagem original;</li>
+          <li>O frete de envio e reenvio é de responsabilidade do cliente.</li>
+        </ul>
+        <p>
+          <strong>Importante:</strong> Itens promocionais ou de SALE poderão ser 
+          trocados apenas em caso de defeito de fabricação.
+        </p>
+        
+        <h3>Itens que Não Aceitamos para Troca ou Devolução</h3>
+        <ul>
+          <li>Peças com indícios de uso, sujeira, danos ou sem etiqueta original;</li>
+          <li>Peças ajustadas ou alteradas pelo cliente;</li>
+          <li>Peças promocionais exceto em caso de defeito de fabricação.</li>
+        </ul>
+        
+        <h3>Produtos com Defeito</h3>
+        <p>
+          Todos os nossos produtos têm garantia de 7 dias para defeitos de 
+          fabricação, conforme o Art. 26 do CDC.
+        </p>
+        <ul>
+          <li>Envie o produto com a Nota Fiscal e, se possível, na embalagem original;</li>
+          <li>O item será analisado pelo nosso controle de qualidade;</li>
+          <li>Se o defeito for confirmado, você poderá escolher entre:
+            <ul>
+              <li>Receber um novo produto;</li>
+              <li>Trocar por outro item de mesmo valor;</li>
+              <li>Ser reembolsado integralmente.</li>
+            </ul>
+          </li>
+          <li>Caso o defeito não seja constatado, o produto será devolvido ao cliente, 
+              com custos de reenvio por conta do mesmo.</li>
+        </ul>
+        
+        <h3>Reembolso</h3>
+        <p>
+          O valor pago será reembolsado conforme a forma de pagamento utilizada:
+        </p>
+        <ul>
+          <li><strong>Cartão de crédito:</strong> estorno solicitado à operadora em até 
+              10 dias úteis, podendo aparecer em até 2 faturas subsequentes (varia de 
+              acordo com o banco);</li>
+          <li><strong>PIX:</strong> reembolso em até 5 dias úteis diretamente na conta 
+              utilizada para o pagamento.</li>
+        </ul>
+        
+        <h3>Recusa no Ato da Entrega</h3>
+        <p>
+          Recuse o recebimento da encomenda caso constate:
+        </p>
+        <ul>
+          <li>Embalagem aberta ou danificada;</li>
+          <li>Produto avariado ou com indícios de violação;</li>
+          <li>Produto em desacordo com o pedido;</li>
+          <li>Falta de acessórios ou itens.</li>
+        </ul>
+        <p>
+          <strong>Procedimento:</strong> Escreva o motivo da recusa no verso da nota 
+          fiscal (DANFE) e entre em contato com a nossa equipe imediatamente.
+        </p>
+        
+        <h3>Atendimento e Contato</h3>
+        <p>
+          Para qualquer solicitação ou dúvida, entre em contato com nosso Serviço 
+          de Atendimento ao Cliente:
+        </p>
+        <p class="contact-info">
+          📧 E-mail: <a href="mailto:jdessenciasrc@gmail.com">jdessenciasrc@gmail.com</a>
         </p>
       </div>
     </div>
@@ -173,7 +118,23 @@ export default {};
 h1 {
   text-align: center;
   color: black;
+  margin-bottom: 15px;
 }
+
+h3 {
+  color: #333;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.intro {
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 25px;
+  color: #555;
+}
+
 .corpo {
   margin-left: auto;
   margin-right: auto;
@@ -189,16 +150,66 @@ h1 {
   font-family: "Roboto", sans-serif;
   font-size: 18px;
   text-align: justify;
+  line-height: 1.6;
+}
+
+.texto p {
+  margin-bottom: 15px;
+}
+
+.texto ul {
+  margin: 10px 0 15px 20px;
+}
+
+.texto li {
+  margin-bottom: 8px;
+}
+
+.texto ul ul {
+  margin: 5px 0 5px 20px;
+  font-size: 0.95em;
+}
+
+.contact-info {
+  background-color: #f8f8f8;
+  padding: 15px;
+  border-radius: 5px;
+  border-left: 4px solid #4CAF50;
+}
+
+.contact-info a {
+  color: #2196F3;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
 }
 
 @media only screen and (max-width: 600px) {
   .corpo {
     border-radius: 5px;
-    padding: 10%;
-    background-color: "white";
+    padding: 8%;
+    margin: 3%;
+    background-color: #e4e0dd;
   }
+  
   .texto {
-    font-size: 14px;
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
+  
+  .texto ul {
+    margin-left: 15px;
   }
 }
 </style>

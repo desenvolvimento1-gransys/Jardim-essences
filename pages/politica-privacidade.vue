@@ -4,18 +4,18 @@
       <h1>Políticas de Privacidade</h1>
       <div class="texto">
         <p>
-          A CLOSET IMPORTS se importa com seus clientes e a confiança que
+          A Jardim das Essências se importa com seus clientes e a confiança que
           depositam em nós. Assim, além de nosso compromisso com a qualidade de
           nossos produtos e serviços, temos uma grande preocupação com a
           proteção da privacidade e dos dados pessoais de todos aqueles que se
           relacionam conosco. Por isso, queremos demonstrar o comprometimento da
-          CLOSET IMPORTS em tratar seus dados pessoais com segurança e conforme
+          Jardim das Essências em tratar seus dados pessoais com segurança e conforme
           a Lei Geral de Proteção de Dados Pessoais (“LGPD”) e outras leis que
           sejam aplicáveis, garantindo também transparência com nossos clientes,
           usuários, parceiros e todos aqueles com quem nos relacionamos – ou
           seja, você. Pensando nisso, desenvolvemos este Aviso de Privacidade,
           que tem o objetivo de informar sobre quais dados pessoais são tratados
-          pela CLOSET IMPORTS, se os compartilhamos e com quem, para quais
+          pela Jardim das Essências, se os compartilhamos e com quem, para quais
           finalidades, quais são seus direitos e como exercê-los, e, ainda, como
           sua segurança é garantida e sua privacidade respeitada. Este Aviso se
           refere ao tratamento de dados pessoais em nossos sites, lojas físicas
@@ -26,7 +26,7 @@
         <strong>QUEM SOMOS NÓS?</strong> <br />
         O conteúdo deste aviso de privacidade aplica-se a todos os websites,
         aplicativos e serviços oferecidos pelas seguinte empresa: Jessica
-        Hoffmann Cavalcante/Closet imports Pessoa jurídica, inscrita no CNPJ/MF
+        Hoffmann Cavalcante/Jardim das Essências Pessoa jurídica, inscrita no CNPJ/MF
         sob o nº 37.752.059/0001-46, com endereço a Rua Roberto de Lamenais, nº
         379, Pirituba, CEP: 05131-050, São Paulo/SP.
         <br />
@@ -74,7 +74,7 @@
         <br />4. Dados pessoais que tratamos e para quais finalidade Pedimos que
         você leia com bastante atenção os tópicos abaixo. Aqui, apresentamos os
         principais dados pessoais que tratamos, de onde os coletamos e os
-        respectivos motivos. <br />I. Origem dos dados pessoais A CLOSET IMPORTS
+        respectivos motivos. <br />I. Origem dos dados pessoais A Jardim das Essências
         coleta dados pessoais de várias fontes, incluindo (e dependendo do local
         onde o cliente se encontra): <br />a) Dados fornecidos diretamente pelo
         titular: Coletamos informações que você disponibiliza diretamente quando
@@ -113,12 +113,12 @@
         bases de dados de serviços postais locais para verificar e atualizar
         endereços; <br />• Dados compartilhados por terceiros parceiros: estas
         são informações que foram compartilhadas por terceiros parceiros da
-        CLOSET IMPORTS com os quais você entrou em contato e, eventualmente,
+        Jardim das Essências com os quais você entrou em contato e, eventualmente,
         autorizou o compartilhamento de suas informações conosco, para efeitos
         de marketing direto ou publicidade direcionada; <br />• Dados
         partilhados por redes sociais: são informações compartilhadas conosco
         por redes sociais que você utilizou através, também, do nosso Site.
-        Especificamente, quando compartilha a sua experiência CLOSET IMPORTS com
+        Especificamente, quando compartilha a sua experiência Jardim das Essências com
         outros clientes, quando utiliza uma rede social e compartilha
         informações sobre você com esta rede social e conosco. Observação Estas
         comunicações são reguladas pelas políticas de proteção de dados pessoais
@@ -133,10 +133,10 @@
         nossas. <br /><br />5. Como garantimos a segurança de seus dados
         pessoais? Os seus dados pessoais são protegidos por medidas técnicas e
         organizacionais em conformidade com os requisitos legais que garantem a
-        sua segurança e confidencialidade. Em particular, a CLOSET IMPORTS
+        sua segurança e confidencialidade. Em particular, a Jardim das Essências
         utiliza tecnologias de proteção, como criptografia, autenticação e
         sistemas de detecção da fraude, para proteger a sua conta online e as
-        transações de pagamento. A CLOSET IMPORTS obtém compromissos escritos
+        transações de pagamento. A Jardim das Essências obtém compromissos escritos
         dos seus prestadores de serviços e subcontratados com o objetivo de que
         estes garantam e implementem medidas de segurança suficientes que
         garantam a proteção dos dados pessoais que lhes são confiados para

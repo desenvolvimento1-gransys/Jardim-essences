@@ -7,10 +7,10 @@
           <v-col cols="11" lg="8" align="center">
             <router-link to="/">
               <img  v-if="typeLogo.items && typeLogo.items.length"
-   :style="layout.topBar.topBarLogoImg"
-  :src="typeLogo.items[0].src"
-  alt="Logo da topBar"
-/>
+                :style="layout.topBar.topBarLogoImg"
+                :src="typeLogo.items[0].src"
+                alt="Logo da topBar"
+              />
             </router-link>
           </v-col>
         </v-row>

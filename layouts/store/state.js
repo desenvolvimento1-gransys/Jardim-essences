@@ -10,19 +10,19 @@ let errorColor = 'red';
 let defaultGold = '#d2ad6d';
 
 let merchantInfo = {
-    companyName: 'Closet Imports',
-    cnpj: '37.752.059/0001-46',
-    whatsappNumber: "(11) 99293-0623",
+    companyName: 'Jardim das Essências',
+    cnpj: '61.875.983/0001-02',
+    whatsappNumber: "(19) 99682-8492",
 
-    phone: "(11) 99293-0623",
+    phone: "(19) 99682-8492",
     email: "closet_imports@icloud.com",
-    address: "Rua Roberto de Lamenais, 379 - Pirituba, São Paulo",
+    address: "Rua 10A, n°2122 entre av. 64 e 66. Bairro: São Miguel ( Rio Claro - Sp)  Cep: 13506-401",
     workingHours: "Terça a Sábado das 10h às 18h",
     location: "...",
     installment: 6,
 
     facebook: "https://www.instagram.com/closet_imports_011/",
-    instagram: "https://www.instagram.com/closet_imports_011/",
+    instagram: "https://www.instagram.com/jardimdasessenciasrc/",
 
     get emailLink() {
         return `mailto:${this.email}`;

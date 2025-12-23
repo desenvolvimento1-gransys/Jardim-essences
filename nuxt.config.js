@@ -17,8 +17,8 @@ export default {
   target: "static",
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: "%s Imports",
-    title: "Closet",
+    titleTemplate: "%s Essências",
+    title: "Jardim das ",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -28,8 +28,8 @@ export default {
       { hid: "og:locale", name: "og:locale", content: "pt_BR" },
 
       { hid: "og:url", name: "og:url", content: "http://closetimports.com.br" },
-      { hid: "og:title", name: "og:title", content: "Closet Imports" },
-      { hid: "og:site_name", name: "og:site_name", content: "Closet Imports" },
+      { hid: "og:title", name: "og:title", content: "Jardim das Essências" },
+      { hid: "og:site_name", name: "og:site_name", content: "Jardim das Essências" },
 
       { hid: "og:description", name: "og:description", content: "Perfumes das Grandes Marcas" },
 
